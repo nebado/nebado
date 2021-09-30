@@ -7,5 +7,5 @@
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning **CS**, **Go**, **OS**.
 - 💬 Ask me about **Web Development**.
-- 📫 Reach me: <a href="https://t.me/@ne84d0"><img align="left" alt="Nebado's Telegram" width="22px" src="https://telegram.org/img/t_logo.svg?1" /></a>.
+- 📫 Reach me: <a href="https://t.me/@ne84d0"><img alt="Nebado's Telegram" width="22px" src="https://telegram.org/img/t_logo.svg?1" /></a>.
 - 🔥 Interested in Project Management, Blockchain.
