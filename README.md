@@ -1,7 +1,11 @@
-### Hi there 👋
+### Hey There! 👋
 
-<h1 align="left">Ruslan Lazurenko</h1>
+#### I'm a Full-Stack Developer. I’m developing any solutions for business needs.
 
-- 💻 Core Stack: **PHP, JavaScript**. Mainly focused on Backend/Frontend & DevOps.
-- 🌱 I’m currently learning **CS**.
-- 🔥 Interested in Product Management, Marketing.
+<img src="https://gist.githubusercontent.com/Nebado/544f489093f8481403dba74d6dd08219/raw/c87e7b1ca603189c237858a42ccc85e1270420c3/Codin.gif" alt="nice little gif" align="right">
+
+- 🔭 I’m currently working on something cool.
+- 🌱 I’m currently learning **CS**, **Go**, **OS**.
+- 💬 Ask me about **Web Development**.
+- 📫 Reach me: <a href="https://t.me/@ne84d0"><img align="left" alt="Nebado's Telegram" width="22px" src="https://telegram.org/img/t_logo.svg?1" /></a>.
+- 🔥 Interested in Project Management, Blockchain.
