@@ -1,6 +1,6 @@
 ### Hey There! 👋
 
-#### I'm a Full-Stack Developer. I’m developing any solutions for business needs.
+#### I'm a Software Engineer. I’m developing any solutions for business needs.
 
 <img src="https://gist.githubusercontent.com/Nebado/544f489093f8481403dba74d6dd08219/raw/c87e7b1ca603189c237858a42ccc85e1270420c3/Codin.gif" alt="nice little gif" align="right">
 
