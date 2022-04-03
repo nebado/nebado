@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 </h1>
 
-#### I'm a Software Engineer. I’m developing any solutions for business needs.
+#### I'm a Full Stack Developer from Ukraine.
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning **Computer Science**, **Golang**, **Rust**.
