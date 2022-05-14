@@ -44,6 +44,4 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/emacs/emacs.png"/></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/ethereum/ethereum.png"/></code>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nebado&show_icons=true&locale=en&layout=compact&theme=gotham&card_width=300" alt="Nebado" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nebado&show_icons=true&locale=en&theme=gotham&hide=stars&hide_rank=true" alt="Nebado" /></p>
