@@ -1,12 +1,12 @@
 <h1 align="center"> Hi there 👋 </h1>
 
-#### I'm a Full Stack Developer from Ukraine.
+#### I'm a Full Stack Developer. Mainly focused on Backend & DevOps.
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning **Computer Science**, **Golang**, **Rust**.
 - 💬 Ask me about **Web Development**.
 - 📫 Reach me: [t.me/@ne84d0](https://t.me/@ne84d0).
-- 🔥 Interested in Project Management, Blockchain.
+- 🔥 Interested in Project Management, Blockchain & DeFi.
 
 #### Topics, Languages and Tools
 
