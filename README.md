@@ -3,9 +3,8 @@
 #### I'm a self-taught Software Engineer. Mainly focused on Backend & DevOps.
 
 - 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning **Computer Science**, **Golang**, **TypeScript**.
-- 💬 Ask me about **Web Development**, **Software Architecture**.
-- 📫 Reach me: [t.me/@ne84d0](https://t.me/@ne84d0).
+- 🌱 I’m currently learning C#, Unity, Golang.
+- 💬 Ask me about Web Development, Software Development.
 - 🔥 Interested in Game Development, Blockchain & DeFi, Project Management.
 
 #### Topics, Languages and Tools
