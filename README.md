@@ -3,8 +3,8 @@
 #### I'm a Software Engineer specializing in Backend Development and DevOps, with a primary focus on backend systems and infrastructure.
 
 - 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning C#, Unity, Golang.
-- 💬 Ask me about Web Development, Software Development.
+- 🌱 I’m currently learning C#, Golang.
+- 💬 Ask me about Web Development, Software Development, Game Development.
 - 🔥 Interested in Game Development, Blockchain & DeFi, Project Management.
 
 #### Topics, Languages and Tools
