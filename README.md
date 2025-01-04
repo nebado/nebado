@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 </h1>
 
-#### I'm a self-taught Software Engineer. Mainly focused on Backend & DevOps.
+#### I'm a Software Engineer specializing in Backend Development and DevOps, with a primary focus on backend systems and infrastructure.
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning C#, Unity, Golang.
